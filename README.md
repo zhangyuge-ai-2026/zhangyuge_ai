@@ -1,20 +1,14 @@
-# zhangyuge_ai
+# 章鱼哥AI
 
-`zhangyuge_ai` is the release repository for 章鱼哥AI desktop packages.
+章鱼哥AI 是一个面向桌面场景的智能助手产品，提供多模型接入、会话管理、工具调用、知识处理与自动化能力，帮助个人和团队更高效地完成内容生产、信息整理与日常工作流协作。
 
-## What This Repository Contains
+## 产品特点
 
-- Release artifacts for macOS, Windows, and Linux
-- Download and installation notes
-- Release notes for public versions
+- 支持 macOS、Windows、Linux 多平台桌面使用
+- 支持多模型、多连接方式与灵活的运行配置
+- 提供会话管理、文件处理、工具调用与自动化能力
+- 持续通过版本发布提供新功能、体验优化与问题修复
 
-## Source Repository
+## 仓库说明
 
-The application source code is maintained separately:
-
-- Source: https://github.com/1500256797/clawfarmer_client
-- Releases: https://github.com/zhangyuge-ai-2026/zhangyuge_ai/releases
-
-## Notes
-
-This repository is intended for distribution assets and public release documentation.
+本仓库用于发布章鱼哥AI的安装包、版本说明与对外发布内容。
